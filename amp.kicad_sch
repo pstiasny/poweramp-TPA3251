@@ -11982,7 +11982,7 @@
 		)
 	)
 	(image
-		(at 153.289 149.606)
+		(at 213.487 70.612)
 		(scale 0.189333)
 		(uuid "e17c3466-64c0-4a38-b49a-e1762b522acd")
 		(data "iVBORw0KGgoAAAANSUhEUgAABxAAAAQeCAIAAAB37zjWAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
@@ -14330,7 +14330,7 @@
 	)
 	(text "00 = stereo BTL"
 		(exclude_from_sim no)
-		(at 431.546 211.582 0)
+		(at 428.498 210.312 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14393,7 +14393,7 @@
 		)
 		(uuid "9978ce98-b996-4ba7-abb6-d290c2a050e1")
 	)
-	(text "LM4040BIM3-5.0\n60uA < i_{z} < 15mA\nR=10k i_{z}=0.7mA"
+	(text "LM4040BIM3-5.0\n60uA < i_{z} < 15mA\nR_{s}=10k i_{z}=0.7mA"
 		(exclude_from_sim no)
 		(at 150.622 80.518 0)
 		(effects
@@ -14436,6 +14436,16 @@
 			(justify left bottom)
 		)
 		(uuid "e6a66ac6-613c-4147-a7f3-488f29f9973c")
+	)
+	(text "F_{PWM} = 600kHz"
+		(exclude_from_sim no)
+		(at 429.768 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f4c486cd-01f2-4fa1-8366-33451080db22")
 	)
 	(text "VDC = 15-24V"
 		(exclude_from_sim no)
